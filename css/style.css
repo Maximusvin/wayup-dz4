@@ -303,6 +303,7 @@ button:focus {
   color: #fff;
   font-size: 12px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .btn1 {
