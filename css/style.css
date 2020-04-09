@@ -150,7 +150,7 @@ h1 {
 
 .section-form {
   padding-top: 47px;
-  padding-bottom: 68px;
+  padding-bottom: 62px;
 }
 
 .form {
@@ -225,7 +225,7 @@ textarea:-ms-input-placeholder {
   transition: all 0.4s ease;
 }
 
-button {
+.form-btn {
   width: 166px;
   padding: 15px 0;
   text-align: center;
@@ -283,7 +283,7 @@ button:focus {
 
 .footer {
   background-color: #455990;
-  padding: 30px 0;
+  padding: 27px 0;
 }
 
 .footer-nav {
@@ -296,4 +296,28 @@ button:focus {
 
 .footer-btn {
   width: 143px;
+  border: 1px solid #fff;
+  padding: 12px 0;
+  text-align: center;
+  background-color: transparent;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.btn1 {
+  border-radius: 5px;
+}
+
+.btn2 {
+  border-radius: 18.5px;
+}
+
+.text-passage {
+  background-color: #fff;
+  width: 229px;
+  font-size: 12px;
+  color: #455991;
+  text-align: center;
+  padding: 14px 0;
 }
